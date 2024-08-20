@@ -17,29 +17,29 @@ Crossroad Traffic Control model
 ### 2. Road 1 and 2 right handside two separate lanes with each lane having its own traffic control and direction. 
 
 
-# API's used:
-## 1.
-### Description:
+## API's used:
+### 1.
+#### Description:
 
-## 2.
-### Description:
+### 2.
+#### Description:
 
-## 3.
-### Description:
+### 3.
+#### Description:
 
-## 4.
-### Description:
+### 4.
+#### Description:
 
-## 5.
-### Description:
+### 5.
+#### Description:
 
-## 6.
-### Description:
+### 6.
+#### Description:
 
-## 7.
-### Description:
+### 7.
+#### Description:
 
-## 8.
-### Description:
+### 8.
+#### Description:
 
 
