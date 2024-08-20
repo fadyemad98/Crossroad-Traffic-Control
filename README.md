@@ -10,10 +10,10 @@ Crossroad Traffic Control model
 
 # Crossroad Traffic Control
 ## Requirements:
-1. Provide a real Traffic Control
-2. Provide a Pedestrain cross road request
+## 1. Provide a real Traffic Control
+## 2. Provide a Pedestrain cross road request
 ## Assumptions:
-1. Four roads with each having two ways direction
-2. Road 1 and 2 right handside two separate lanes with each lane having its own traffic control and direction. 
+## 1. Four roads with each having two ways direction
+## 2. Road 1 and 2 right handside two separate lanes with each lane having its own traffic control and direction. 
 
 
